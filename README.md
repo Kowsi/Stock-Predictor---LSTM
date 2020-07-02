@@ -32,7 +32,7 @@ You will need to:
     
     - For the closing price model, using previous closing prices to try and predict the next closing price. 
     
-     <img src="Images/data.png" width="400" /> 
+     <img src="Images/data.png" width="300" /> 
 
 * Each model will need to use 70% of the data for training and 30% of the data for testing.<br>
 
